@@ -42,21 +42,24 @@
   max-width: 100%;
     height: auto;
     width: auto\9;
-    margin: 30px;
+    margin: 10px;
+
 }
 
 .intro{
   position:relative;
   margin-top: 80px;
 }
+.italics {font-style: italic;}
 .article{
-  font-size: 18px;
+  font-size: 15px;
   margin-top:50px;
   margin-left: 20px;
 
 }
 .title{
   font-family:helvetica ;
+  
 }
 
 
