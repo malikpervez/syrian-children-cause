@@ -29,3 +29,13 @@
       }
       .row.content {height:auto;} 
     }
+/*adjust the homepage image*/ 
+#syrian_boy{
+  height:430px;
+}
+
+.text-left{
+  position:relative;
+  margin-top: 80px;
+}
+
