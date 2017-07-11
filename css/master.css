@@ -10,8 +10,10 @@
     /* Set gray background color and 100% height */
     .sidenav {
       padding-top: 20px;
-      background-color: #f1f1f1;
-      height: 100%;
+      /*background-color: #f1f1f1;*/
+      max-width: 100%;
+    height: auto;
+    width: auto\9;
     }
     
     /* Set black background color, white text and some padding */
@@ -31,7 +33,10 @@
     }
 /*adjust the homepage image*/ 
 #syrian_boy{
-  height:430px;
+  max-width: 100%;
+    height: auto;
+    width: auto\9;
+    margin: 30px;
 }
 
 .text-left{
