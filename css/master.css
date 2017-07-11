@@ -70,7 +70,9 @@
       padding: 15px;
       font-style: bold;
       text-align: center;
+      position: relative;
 }
+
 
 .donation-container {
   height: 1000px;
