@@ -1,7 +1,7 @@
 /* Remove the navbar's default margin-bottom and rounded borders */ 
     #wfp {
-    	height:30px;
-    	width:60px;
+    	height:35px;
+    	width:70px;
     	position:right;
     }
     .navbar {
