@@ -38,10 +38,11 @@
       .row.content {height:auto;} 
     }
 /*adjust the homepage image*/ 
+
 .syrianchild {
   max-width: 100%;
     height: auto;
-    width: auto\9;
+    width: auto;
     margin: 10px;
 
 }
