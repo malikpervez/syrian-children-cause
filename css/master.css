@@ -22,12 +22,12 @@
     }
     
     /* Set black background color, white text and some padding */
-    footer {
+/*    footer {
       background-color: #555;
       color: white;
       padding: 15px;
       font-style: bold;
-    }
+    }*/
     
     /* On small screens, set height to 'auto' for sidenav and grid */
     @media screen and (max-width: 767px) {
@@ -51,4 +51,13 @@
 }
 .title{
   font-family:helvetica ;
+}
+
+
+.navbar-fixed-bottom{
+  background-color: #555;
+      color: white;
+      padding: 15px;
+      font-style: bold;
+      text-align: center;
 }
