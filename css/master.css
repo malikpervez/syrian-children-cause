@@ -1,4 +1,9 @@
 /* Remove the navbar's default margin-bottom and rounded borders */ 
+    #wfp {
+    	height:35px;
+    	width:70px;
+    	position:right;
+    }
     .navbar {
       margin-bottom: 0;
       border-radius: 0;
