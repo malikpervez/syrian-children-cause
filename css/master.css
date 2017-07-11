@@ -38,17 +38,25 @@
       .row.content {height:auto;} 
     }
 /*adjust the homepage image*/ 
-#syrian_boy{
+.syrianchild {
   max-width: 100%;
     height: auto;
     width: auto\9;
     margin: 30px;
 }
 
-.text-left{
+.intro{
   position:relative;
   margin-top: 80px;
 }
+.article{
+  font-size: 18px;
+  margin-top:50px;
+  margin-left: 20px;
+
+}
 .title{
   font-family:helvetica ;
+  text-align: center;
+  margin-top: 50px;
 }
